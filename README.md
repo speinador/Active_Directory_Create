@@ -77,6 +77,4 @@ Después del reinicio:
 - [Lista de comandos PowerShell para AD](https://docs.microsoft.com/en-us/powershell/module/addsadministration/)
 
 ## 🧑‍🔧 Autor
-**Sebastián Peinador**  
-Jefe de Soporte y Sistemas · Docente CFP36  
-Hospital José M. Penna · CABA 🇦🇷
+**Sebastián Peinador**
