@@ -1,10 +1,10 @@
 # 🛡️ Active Directory: Guía de Instalación y Configuración Básica
 
-Este tutorial te guiará paso a paso para crear y configurar un **Active Directory Domain Services (AD DS)** en un entorno de laboratorio utilizando **Windows Server 2019 o 2022**. Ideal para estudiantes, administradores de red o entusiastas de la ciberseguridad.
+Este tutorial te guiará paso a paso para crear y configurar un **Active Directory Domain Services (AD DS)** en un entorno de laboratorio utilizando **Windows Server 2019**. Ideal para estudiantes, administradores de red o entusiastas de la ciberseguridad.
 
 ## 📋 Requisitos
 - 💻 Máquina virtual o física con:
-  - Windows Server 2019 o 2022
+  - [Windows Server 2019](https://archive.org/details/en_mftaah.com_windows_server_2019)
   - 2 GB RAM mínimo (recomendado 4 GB+)
   - 1 vCPU mínimo (recomendado 2+)
   - Disco de al menos 40 GB
